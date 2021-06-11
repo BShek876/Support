@@ -1,0 +1,24 @@
+﻿{
+"AgencySequence":"355,326,320,322,368,329,353,332,343,603,342,328,340,341,646,327,337,349,358,365,600,635",
+    "CurrentBots": "13,14,15,16,17,18,19,20",
+    "BotPrefix": "ROBOT-PROD-",
+    "SPAURL":"https://app.e5.ai/",
+    "SelectDataURL":"https://app.selectdata.com/AssessmentImport",
+    "OrchestratorURL":"https://orchestrator.services.e5.ai/",
+    "ExcelFilePath": "C:\\Users\\praveenraj sivaraja\\Documents\\Project\\Support\\Data\\Agency.xlsx",
+    "NotePadFilePath": "C:\\Users\\praveenraj sivaraja\\Documents\\Project\\Support\\Data\\",
+    "SelectDataCredential": {
+        "UserName": "hanna.mekonnen",
+        "Password": "Element51!"
+    },
+    "SPACredentials": {
+        "SelectData": {
+            "UserName": "botadmin@selectdata.com",
+            "Password": "g3?Q4$b3"
+        },
+        "CareDimention": {
+            "UserName": "botadmin@caredimensions.com",
+            "Password": "SuperADM1N@CD$"
+        }
+    }
+}

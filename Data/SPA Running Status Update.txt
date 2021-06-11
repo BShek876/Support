@@ -1,0 +1,53 @@
+
+Run ID: 6816
+Process name: Coding Inbound - Document Retrieval
+Client Name: Select data
+Summary:  -{"TotalRecords":13,"Message":"Total Records - 13 | Success - 9 | Failed - 4 | On Hold - 0.","Processed":9,"Failed":4,"On Hold":0}
+Run Status: Failed
+Fail Reason: Job execution terminated abruptly!
+End time: 06/02/2021 7:26:51 AM UTC
+Run Detail Json: -
+[{"in_PatientName":"PAYNE JR, ROBERT L","in_Mrn":"0C300017311001","in_PatientID":"000173110","in_Agency":"327","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/29/2021","in_SOEDate":"05/29/2021","in_Status":"Failed","in_Notes":"Error on print medical record"},
+{"in_PatientName":"LINER, SHARON M","in_Mrn":"0B700040265201","in_PatientID":"000402652","in_Agency":"322","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/08/2021","in_SOEDate":"05/08/2021","in_Status":"Failed","in_Notes":"Error while priniting episode attachment"},
+{"in_PatientName":"BELLAMY, CURTIS D","in_Mrn":"04000040699701","in_PatientID":"000406997","in_Agency":"320","in_ServiceLine":"HOME HEALTH,CARELINK - ORTHO","in_RFA":"1","in_AssessmentDate":"05/26/2021","in_SOEDate":"05/26/2021","in_Status":"Failed","in_Notes":"Error while priniting episode attachment"},
+{"in_PatientName":"DEATON, DOROTHY E","in_Mrn":"02700033797601","in_PatientID":"000337976","in_Agency":"319","in_ServiceLine":"HOME HEALTH,CARELINK - ORTHO","in_RFA":"1","in_AssessmentDate":"05/28/2021","in_SOEDate":"05/28/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"TEJEDA, PETRA","in_Mrn":"0P600040829802","in_PatientID":"000408298","in_Agency":"602","in_ServiceLine":"HOSPICE","in_RFA":"1","in_AssessmentDate":"05/30/2021","in_SOEDate":"05/30/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"ESCOBAR, JUAN","in_Mrn":"0P600040780702","in_PatientID":"000407807","in_Agency":"602","in_ServiceLine":"HOSPICE","in_RFA":"1","in_AssessmentDate":"05/28/2021","in_SOEDate":"05/28/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"WELLS, MELISSA D","in_Mrn":"0E200023395401","in_PatientID":"000233954","in_Agency":"334","in_ServiceLine":"HOME HEALTH,CARELINK - CARDIO,CARELINK - DIABETES,HIGH RISK - ARCH","in_RFA":"3","in_AssessmentDate":"05/28/2021","in_SOEDate":"04/06/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"MILLER, GERALD E","in_Mrn":"04900002901201","in_PatientID":"000029012","in_Agency":"353","in_ServiceLine":"HOME HEALTH,HIGH RISK - ARCH","in_RFA":"4","in_AssessmentDate":"05/28/2021","in_SOEDate":"05/30/2021","in_Status":"Failed","in_Notes":"Error on print medical record"},
+{"in_PatientName":"MCGHEE, TINA","in_Mrn":"0B300040823701","in_PatientID":"000408237","in_Agency":"342","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/29/2021","in_SOEDate":"05/29/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"FRIEDMAN, JOYCE L","in_Mrn":"0B300038231701","in_PatientID":"000382317","in_Agency":"342","in_ServiceLine":"HOME HEALTH","in_RFA":"3","in_AssessmentDate":"05/27/2021","in_SOEDate":"04/23/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"JONES, MITCHELL","in_Mrn":"0A900040630401","in_PatientID":"000406304","in_Agency":"330","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/26/2021","in_SOEDate":"05/26/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"ALLEN, BERTRAM C","in_Mrn":"0A900040603301","in_PatientID":"000406033","in_Agency":"330","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/25/2021","in_SOEDate":"05/25/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"CANTRELL, JAMES D","in_Mrn":"0A900039072901","in_PatientID":"000390729","in_Agency":"330","in_ServiceLine":"HOME HEALTH,VETERAN","in_RFA":"3","in_AssessmentDate":"05/27/2021","in_SOEDate":"05/10/2021","in_Status":"Success","in_Notes":""}]
+
+
+Run ID: 6791
+Process name: Coding Inbound - Document Retrieval
+Client Name: Select data
+Summary:  -
+Run Status: Failed
+Fail Reason: Could not find a part of the path 'C:\Users\robolocal\.nuget\packages\element5.hchb\1.0.21\lib\net45\Framework\KillAllProcesses.xaml'.
+End time: 06/01/2021 9:39:06 PM UTC
+Run Detail Json: -
+
+
+Run ID: 6783
+Process name: Coding Inbound - Document Retrieval
+Client Name: Select data
+Summary:  -{"TotalRecords":10,"Message":"Total Records - 10 | Success - 9 | Failed - 1 | On Hold - 0.","Processed":9,"Failed":1,"On Hold":0}
+Run Status: Failed
+Fail Reason: Job execution terminated abruptly!
+End time: 06/02/2021 4:37:19 AM UTC
+Run Detail Json: -
+[{"in_PatientName":"THOMAS, GLEN","in_Mrn":"0B400021929501","in_PatientID":"000219295","in_Agency":"341","in_ServiceLine":"HOME HEALTH,CARELINK - BALANCE,HIGH RISK - FALLS","in_RFA":"4","in_AssessmentDate":"05/28/2021","in_SOEDate":"06/01/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"PIPPINS, ANITA","in_Mrn":"0B400039286401","in_PatientID":"000392864","in_Agency":"341","in_ServiceLine":"HOME HEALTH","in_RFA":"4","in_AssessmentDate":"05/27/2021","in_SOEDate":"05/30/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"WHITSON, DEBRA","in_Mrn":"0E300040717701","in_PatientID":"000407177","in_Agency":"343","in_ServiceLine":"HOME HEALTH,CARELINK - CARDIO,CARELINK - COPD,CARELINK - DIABETES,CARELINK - ORTHO,TELEHEALTH - HRS","in_RFA":"1","in_AssessmentDate":"05/29/2021","in_SOEDate":"05/29/2021","in_Status":"Failed","in_Notes":"Error while priniting episode attachment"},
+{"in_PatientName":"PHARR, COURTNEY","in_Mrn":"0E300040800501","in_PatientID":"000408005","in_Agency":"343","in_ServiceLine":"HOME HEALTH,CARELINK - SKIN AND WOUND,S2","in_RFA":"1","in_AssessmentDate":"05/29/2021","in_SOEDate":"05/29/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"SKILLERN, KENNETH","in_Mrn":"0E300040671101","in_PatientID":"000406711","in_Agency":"343","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/26/2021","in_SOEDate":"05/26/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"ANTOINE, RICHARD","in_Mrn":"0E300029100001","in_PatientID":"000291000","in_Agency":"343","in_ServiceLine":"HOME HEALTH,S3","in_RFA":"1","in_AssessmentDate":"05/27/2021","in_SOEDate":"05/27/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"WINKLER, JOHN R","in_Mrn":"0N200040633201","in_PatientID":"000406332","in_Agency":"368","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/26/2021","in_SOEDate":"05/26/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"EDWARDS, VICKI L","in_Mrn":"0N200034218601","in_PatientID":"000342186","in_Agency":"368","in_ServiceLine":"HOME HEALTH,CARELINK - SKIN AND WOUND","in_RFA":"1","in_AssessmentDate":"05/26/2021","in_SOEDate":"05/26/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"PEGAGO III, DONALD","in_Mrn":"05000040778201","in_PatientID":"000407782","in_Agency":"352","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/28/2021","in_SOEDate":"05/28/2021","in_Status":"Success","in_Notes":""},
+{"in_PatientName":"CROSS, RONALD","in_Mrn":"05000040707701","in_PatientID":"000407077","in_Agency":"352","in_ServiceLine":"HOME HEALTH","in_RFA":"1","in_AssessmentDate":"05/28/2021","in_SOEDate":"05/28/2021","in_Status":"Success","in_Notes":""},
+]
